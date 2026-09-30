@@ -13,11 +13,11 @@ The teacher walks toward you in three danger levels.
 The number of red exclamation marks above his head tells you how many times to ring:
 
 
-  !	   ->  Ring once
+  !	    ->  Ring once
 
-  !!	 ->  Ring twice
+  !!	  ->  Ring twice
 
-  !!!	 ->  Ring three times
+  !!!	  ->  Ring three times
   
   - Correct count: the teacher goes back to the board and you pretend to study.
   - Wrong count or too slow: he moves one level closer and gets angrier.
