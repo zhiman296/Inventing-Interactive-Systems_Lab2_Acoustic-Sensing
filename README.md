@@ -1,4 +1,6 @@
 ## Back Row Nap
+[Demo video]https://youtu.be/Xf2TaWxrriE 
+
 A small reaction game controlled by sound. 
 You are a student who fell asleep in the back row, and the teacher is walking toward you. 
 
@@ -12,12 +14,11 @@ The teacher walks toward you in three danger levels.
 
 The number of red exclamation marks above his head tells you how many times to ring:
 
+ !	  ->  Ring once
+ 
+!!	  ->  Ring twice
 
-  !	    ->  Ring once
-
-  !!	  ->  Ring twice
-
-  !!!	  ->  Ring three times
+!!!	  ->  Ring three times
   
   - Correct count: the teacher goes back to the board and you pretend to study.
   - Wrong count or too slow: he moves one level closer and gets angrier.
